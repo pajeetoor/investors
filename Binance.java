@@ -1,4 +1,4 @@
-public class AsciiArt {
+public class Binance {
     public static void main(String[] args) {
         String asciiArt = 
                 "                                                                                          \n" +
