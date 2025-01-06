@@ -1,4 +1,4 @@
-public class AsciiArt {
+public class Coinbase {
     public static void main(String[] args) {
         String asciiArt = 
                 "                                   .::--====+++====--:.                                    \n" +
