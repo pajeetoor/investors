@@ -1,6 +1,6 @@
 public class Paradigm {
     public static void main(String[] args) {
-        String asciiArt = 
+        String para = 
                 "                                                                                          \n" +
                 "                                                                                          \n" +
                 "                                                                                          \n" +
@@ -43,7 +43,7 @@ public class Paradigm {
                 "                                                                                          \n" +
                 "                                                                                          \n";
 
-        System.out.println(asciiArt);
+        System.out.println(para);
         System.out.println("backed by paradigm");
     }
 }
