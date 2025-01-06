@@ -1,4 +1,4 @@
-public class AsciiArt {
+public class Paradigm {
     public static void main(String[] args) {
         String asciiArt = 
                 "                                                                                          \n" +
