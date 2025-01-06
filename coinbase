@@ -47,5 +47,6 @@ public class AsciiArt {
                 " .-=++++=-    :=+++++=.   :++  =++     ++- .+=-=++++=.  .=++===:=++: -=+==++-   .-=++++=: \n";
 
         System.out.println(asciiArt);
+        System.out.println("backed by coinbase");
     }
 }
